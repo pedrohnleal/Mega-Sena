@@ -1,0 +1,13 @@
+C:\Projetos\C#\megaSena\bin\Debug\netcoreapp3.1\megaSena.exe
+C:\Projetos\C#\megaSena\bin\Debug\netcoreapp3.1\megaSena.deps.json
+C:\Projetos\C#\megaSena\bin\Debug\netcoreapp3.1\megaSena.runtimeconfig.json
+C:\Projetos\C#\megaSena\bin\Debug\netcoreapp3.1\megaSena.runtimeconfig.dev.json
+C:\Projetos\C#\megaSena\bin\Debug\netcoreapp3.1\megaSena.dll
+C:\Projetos\C#\megaSena\bin\Debug\netcoreapp3.1\megaSena.pdb
+C:\Projetos\C#\megaSena\obj\Debug\netcoreapp3.1\megaSena.csprojAssemblyReference.cache
+C:\Projetos\C#\megaSena\obj\Debug\netcoreapp3.1\megaSena.AssemblyInfoInputs.cache
+C:\Projetos\C#\megaSena\obj\Debug\netcoreapp3.1\megaSena.AssemblyInfo.cs
+C:\Projetos\C#\megaSena\obj\Debug\netcoreapp3.1\megaSena.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\megaSena\obj\Debug\netcoreapp3.1\megaSena.dll
+C:\Projetos\C#\megaSena\obj\Debug\netcoreapp3.1\megaSena.pdb
+C:\Projetos\C#\megaSena\obj\Debug\netcoreapp3.1\megaSena.genruntimeconfig.cache
